@@ -9,7 +9,7 @@ We will update our code later...
 
 Citation:
 
-    Q. Wu, K. Liu, L. Chen, and J. Lv, "Hierarchical Reinforcement Learning for Swarm Confrontation With High Uncertainty," in IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2024.3487219 (https://ieeexplore.ieee.org/document/10744028)
+    Q. Wu, K. Liu, L. Chen and J. Lü, "Hierarchical Reinforcement Learning for Swarm Confrontation With High Uncertainty," in IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 8630-8644, 2025, doi: 10.1109/TASE.2024.3487219.
 
 Bibtex:
 
