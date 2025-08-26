@@ -14,15 +14,15 @@ Citation:
 Bibtex:
 
     @ARTICLE{10744028,
-    author={Wu, Qizhen and Liu, Kexin and Chen, Lei and Lü, Jinhu},
-    journal={IEEE Transactions on Automation Science and Engineering}, 
-    title={Hierarchical Reinforcement Learning for Swarm Confrontation With High Uncertainty}, 
-    year={2024},
-    volume={},
-    number={},
-    pages={1-15},
-    keywords={Uncertainty;Training;Robots;Resource management;Games;Stability analysis;Path planning;Probabilistic logic;Planning;Mathematical models;Swarm;robotic confrontation;deep reinforcement learning;decision uncertainty;artificial intelligence},
-    doi={10.1109/TASE.2024.3487219}}
+      author={Wu, Qizhen and Liu, Kexin and Chen, Lei and Lü, Jinhu},
+      journal={IEEE Transactions on Automation Science and Engineering}, 
+      title={Hierarchical Reinforcement Learning for Swarm Confrontation With High Uncertainty}, 
+      year={2025},
+      volume={22},
+      number={},
+      pages={8630-8644},
+      keywords={Uncertainty;Training;Robots;Resource management;Games;Stability analysis;Path planning;Probabilistic logic;Planning;Mathematical models;Swarm;robotic confrontation;deep reinforcement learning;decision uncertainty;artificial intelligence},
+      doi={10.1109/TASE.2024.3487219}}
 
 
 If you have any questions or concerns, please raise an issue or email: wuqzh7@buaa.edu.cn
